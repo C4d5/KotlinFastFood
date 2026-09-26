@@ -21,7 +21,7 @@ KotlinFastFood/
 ├── gradle/               → Arquivos de configuração e wrapper do Gradle
 ├── build.gradle.kts      → Configuração de build do projeto
 └── settings.gradle.kts   → Configurações de módulos do workspace
-
+```
 ▶️ Como Executar o Projeto
 Certifique-se de ter o Android Studio instalado em sua máquina.
 
